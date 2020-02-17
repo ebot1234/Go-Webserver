@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"go.autocompleteUnimportedPackages": true,
+		"go.docsTool": "gogetdoc"
+	}
+}
